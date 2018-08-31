@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+}
+.tablero{
+    margin: auto;
+    width: 10em;
+    height: 10em;
+}
+.white{
+    background-color: white;
+    
+}
+.black{
+    background-color: black;
+}
+div{
+    height: 5em;
+    width: 5em;
+    visibility: collapse;
+}
+td{
+    text-align: center;
+    
+}
+td:hover{
+    background-color:rgba(255, 0, 0, 0.5);
+    visibility: visible;
+}
+#title{
+    font-family: 'Uncial Antiqua', cursive;
+    font-size: 5em;
+    text-align: center;
+}
+#chess2{
+    -webkit-transform: scaleX(-1); 
+}
