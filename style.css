@@ -1,0 +1,28 @@
+body{
+    background-color: #57d78e;
+}
+ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+button{
+    border: 2px solid black;
+    border-radius: 4px;
+    color: black;
+    font-size: 200%;
+    padding: 10px;
+    background-color: #5cade3;
+}
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}

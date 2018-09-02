@@ -1,0 +1,96 @@
+button{
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+ul li{
+    display: inline-block;
+}
+.size{
+    border: none;
+}
+#bnormal{
+    font-size: 100%;
+}
+#bpequeño{
+    font-size: 50%;
+}
+#bgrande{
+    font-size: 200%;
+}
+.Color{
+    border: none;
+    color: white;
+}
+#cesmeralda{
+    background-color: #57d78e;
+}
+#ccielo{
+    background-color: #5cade3;
+}
+#camatista{
+    background-color: #af7bc5;
+}
+#casfalto{
+    background-color: #5c6d7f;
+}
+#ctopasio{
+    background-color: #ea984d;
+}
+#crubi{
+    background-color: #eb7062;
+}
+.Border{
+    background-color: white;
+}
+#bsimple{
+    border: 2px solid;
+}
+#besmeralda{
+    color: #57d78e;
+    border: 2px solid #57d78e;
+}
+#bcielo{
+    color: #5cade3;
+    border: 2px solid #5cade3;
+}
+#bamatista{
+    color: #af7bc5;
+    border: 2px solid #af7bc5;
+}
+#basfalto{
+    color: #5c6d7f;
+    border: 2px solid #5c6d7f;
+}
+#btopasio{
+    color: #ea984d;
+    border: 2px solid #ea984d;
+}
+#brubi{
+    color: #eb7062;
+    border: 2px solid #eb7062;
+}
+#m1{
+    font-size: 200%;
+    border: none;
+    background-color: #5c6d7f;
+    color: white;
+}
+#m2{
+    background-color: white;
+    color: #5cade3;
+    border: 2px solid #5cade3;
+}
+#m3{
+    font-size: 50%;
+    color: white;
+    background-color: #57d78e;
+    border: none;
+}
+#m4{
+    font-size: 200%;
+    background-color: white;
+    color: #eb7062;
+    border: 2px solid #eb7062;
+}
